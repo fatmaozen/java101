@@ -1,7 +1,4 @@
 import java.util.Scanner;
-/**
- * burcBulma
- */
 public class ProjectA4 {
 
     public static void main(String[] args) {
