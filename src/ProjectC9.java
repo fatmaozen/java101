@@ -1,7 +1,7 @@
 import java.util.Scanner;
 
 public class ProjectC9 {
-    static int prime(int a) {
+    static void prime(int a) {
         int count = 0;
 
         for (int i = 2; i < a; i++) {
@@ -14,7 +14,7 @@ public class ProjectC9 {
         } else {
             System.out.println(a + " Asal bir sayı değildir.");
         }
-        return count;
+      
     }
 
 
